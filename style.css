@@ -1,0 +1,32 @@
+
+
+ body {background-color: #F5F5F5;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.head {background-color: #3a4660;
+  margin: -10px ; padding-top: 10px; padding-bottom: 10px;}
+
+
+
+
+h1 {font-family: 'Open Sans', sans-serif;
+  font-size:30px;
+  line-height: em;
+  color:#ed8a63 ;
+  font-weight: normal;
+ }
+
+
+h2 {color:#c9af98;
+   font-size: 17px;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: normal}
+
+h3 {color:#3d3d3f;
+font-size:16px;
+font-weight: bolder; }
+
+ {color: #845007}
+
+.tutor{ color: #845007}
